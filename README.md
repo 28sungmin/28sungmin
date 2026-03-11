@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome!! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 컴퓨터공학부 전공</li><li> '초등 도형, 파이썬으로 해볼까?' 책 저자 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 한국외대 컴퓨터공학부 수석졸업</li><li> '초등 도형, 파이썬으로 해볼까?' 책 저자</li><li><a>https://www.yes24.com/product/goods/143373762</a></li></div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
