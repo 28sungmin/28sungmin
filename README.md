@@ -6,6 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 한국외대 컴퓨터공학부 수석졸업</li>
         <li><a href="https://www.yes24.com/product/goods/143373762">'초등 도형, 파이썬으로 해볼까?' 책 저자</a></li></div> 
     </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 연세대학교 의생명시스템정보학과 석박통합과정</li>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
